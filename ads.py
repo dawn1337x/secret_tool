@@ -36,7 +36,7 @@ def main(client):
 
     # Init connection to mySQL server
     sqcon = mysql.connector.connect(user='admin',
-                                    password='BugBase{m3s5_h1M_uP_3nT1Red}',
+                                    password='[REDACTED]',
                                     host='database.cgsgsrn0p.us-west-1.rds.amazonaws.com',
                                     port='3306',
                                     database='data_all')
